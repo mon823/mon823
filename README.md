@@ -1,18 +1,16 @@
 ### @mon823
 
-### I'm currently interested in
+### :telescope: I'm interested in
 
-- IOT
 - AI (NLP)
+- IOT (Raspberry Pi, Arduino)
 - Software Engineering
 - Javascript / Typescript
 - React
-<br>
 <hr>
-<br>
 
 ### Skill Set
-:pencil: Language
+:pencil: **Language**
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -20,7 +18,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-:computer: Web
+:computer: **Web**
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
