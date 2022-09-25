@@ -2,11 +2,12 @@
 
 ### :telescope: I'm interested in
 
+- Javascript / Typescript
+- React
 - AI (NLP)
 - IOT (Raspberry Pi, Arduino)
 - Software Engineering
-- Javascript / Typescript
-- React
+
 <hr>
 
 ### Skill Set
