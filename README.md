@@ -4,9 +4,11 @@
 
 - Javascript / Typescript
 - React
+- Next.js
+- Software Engineering
 - AI (NLP)
 - IOT (Raspberry Pi, Arduino)
-- Software Engineering
+
 
 <hr>
 
